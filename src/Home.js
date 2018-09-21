@@ -1,5 +1,8 @@
 import React from 'react';
+
+
 //import {geolocated} from 'react-geolocated';
+
 import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
 class Home extends React.Component {
   render() {
